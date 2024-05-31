@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ns2:NFPSe xmlns:ns2="http://nfe.pmf.sc.gov.br/nfse/versao?tipo=xsd" xmlns="http://www.w3.org/2000/09/xmldsig#"><ns2:InfNFPSe Id="47703580925142"><ns2:Versao>1.0</ns2:Versao><ns2:TipoSistema>1</ns2:TipoSistema><ns2:AEDF><ns2:AEDF>092514</ns2:AEDF><ns2:TipoAedf>NORMAL</ns2:TipoAedf></ns2:AEDF><ns2:CodigoVerificacao>E7E5598C49CD10C7</ns2:CodigoVerificacao><ns2:NumeroSerie>2</ns2:NumeroSerie><ns2:DataEmissao>2014-03-06Z</ns2:DataEmissao><ns2:CFPS>9203</ns2:CFPS><ns2:StatusNFPSe>0</ns2:StatusNFPSe><ns2:DadosServico><ns2:ItemServico><ns2:IdCNAE>9115</ns2:IdCNAE><ns2:CodigoAtividade>6311900</ns2:CodigoAtividade><ns2:DescricaoServico>CRIAÇÃO DO TAPUME AGENCIAMEMO.COM.BR</ns2:DescricaoServico><ns2:CST>1</ns2:CST><ns2:Aliquota>0.02</ns2:Aliquota><ns2:ValorUnitario>250.0</ns2:ValorUnitario><ns2:Quantidade>1</ns2:Quantidade><ns2:ValorTotal>250.0</ns2:ValorTotal></ns2:ItemServico><ns2:BaseCalculo>250.0</ns2:BaseCalculo><ns2:ValorISSQN>5.0</ns2:ValorISSQN><ns2:BaseCalculoSubstituicao>0.0</ns2:BaseCalculoSubstituicao><ns2:ValorISSQNSubstituicao>0.0</ns2:ValorISSQNSubstituicao><ns2:ValorTotalServicos>250.0</ns2:ValorTotalServicos><ns2:DadosAdicionais>Documento emitido por ME optante pelo simples nacional</ns2:DadosAdicionais></ns2:DadosServico><ns2:Prestador><ns2:IdentificacaoPrestador><ns2:CNPJ>19625833000176</ns2:CNPJ><ns2:InscricaoMunicipal>4770358</ns2:InscricaoMunicipal></ns2:IdentificacaoPrestador><ns2:RazaoSocial>INTELIO TECNOLOGIA LTDA ME</ns2:RazaoSocial><ns2:Endereco><ns2:Logradouro> AMARO ANTONIO VIEIRA, 2383, APTO 1113</ns2:Logradouro><ns2:Bairro>ITACORUBI</ns2:Bairro><ns2:Municipio><ns2:CodigoMunicipio>4205407</ns2:CodigoMunicipio></ns2:Municipio><ns2:CodigoPostal><ns2:CEP>88034102</ns2:CEP></ns2:CodigoPostal><ns2:UF>SC</ns2:UF></ns2:Endereco><ns2:Contato><ns2:Email>jaison@intelio.com.br</ns2:Email><ns2:Telefone>4899853850</ns2:Telefone></ns2:Contato></ns2:Prestador><ns2:Tomador><ns2:IdentificacaoTomador><ns2:DocIdTomador><ns2:CPFCNPJ><ns2:CNPJ>08965174000109</ns2:CNPJ></ns2:CPFCNPJ></ns2:DocIdTomador></ns2:IdentificacaoTomador><ns2:RazaoSocial>AGÊNCIA MEMO LTDA</ns2:RazaoSocial><ns2:Endereco><ns2:Logradouro>Rua Aurélia</ns2:Logradouro><ns2:NumeroEndereco>1714</ns2:NumeroEndereco><ns2:ComplementoEndereco/><ns2:Bairro>Vila Romana</ns2:Bairro><ns2:Municipio><ns2:CodigoMunicipio>3550308</ns2:CodigoMunicipio></ns2:Municipio><ns2:CodigoPostal><ns2:CEP>5046001</ns2:CEP></ns2:CodigoPostal><ns2:UF>SP</ns2:UF></ns2:Endereco><ns2:Contato><ns2:Email>financeiro@agenciamemo.com.br</ns2:Email><ns2:Telefone>1130443295</ns2:Telefone></ns2:Contato></ns2:Tomador></ns2:InfNFPSe><Signature Id="Sign-7.528474913278529E7" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference Id="Ref-2812424.2140880385" Type="http://uri.etsi.org/01903#SignedProperties" URI="#SigProperties-3018841.8759184764"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>N1aR6hlcT20vsfT3/t1AMktLwjY=</DigestValue></Reference><Reference Id="Ref-8.950765265792629E7" URI="#47703580925142"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>3RcTB1FIPgE0BpFDUX9YI7yfk9U=</DigestValue></Reference></SignedInfo><SignatureValue Id="SignatureValueID-6.483311674975635E7">e/EJ8PgEvIO7sSczvcnTQl1zUJlRI6Vl+7H3zrp1OompIs+kXDF7a/mGDmzmPTxSvEzjlJCCbgTp
+LILVSIP9CFtcYg3tkCBg28CMHOogUJBlT5qWUgu6LthLld0EorubqDswga7WaWg5mQ/GwAQIqK77
+WhiGksB3MvNCty/DkyY=</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=PREFEITURA MUNICIPAL DE FLORIANOPOLIS:82892282001204, OU=Autenticado por AR BRY, OU=RFB e-CNPJ A1, OU=Secretaria da Receita Federal do Brasil - RFB, O=ICP-Brasil, L=FLORIANOPOLIS, ST=SC, C=BR</X509SubjectName><X509Certificate>MIIGYTCCBUmgAwIBAgIQRbymcwwVW40MIIAWcqeY4jANBgkqhkiG9w0BAQUFADBxMQswCQYDVQQG
+EwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2VjcmV0YXJpYSBkYSBSZWNlaXRh
+IEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRUwEwYDVQQDEwxBQyBCUiBSRkIgRzIwHhcNMTExMTA3
+MDAwMDAwWhcNMTIxMTA1MjM1OTU5WjCB9zELMAkGA1UEBhMCQlIxCzAJBgNVBAgTAlNDMRYwFAYD
+VQQHFA1GTE9SSUFOT1BPTElTMRMwEQYDVQQKFApJQ1AtQnJhc2lsMTYwNAYDVQQLFC1TZWNyZXRh
+cmlhIGRhIFJlY2VpdGEgRmVkZXJhbCBkbyBCcmFzaWwgLSBSRkIxFjAUBgNVBAsUDVJGQiBlLUNO
+UEogQTExHzAdBgNVBAsUFkF1dGVudGljYWRvIHBvciBBUiBCUlkxPTA7BgNVBAMTNFBSRUZFSVRV
+UkEgTVVOSUNJUEFMIERFIEZMT1JJQU5PUE9MSVM6ODI4OTIyODIwMDEyMDQwgZ8wDQYJKoZIhvcN
+AQEBBQADgY0AMIGJAoGBAJ5EQFCr11CIwss6NMZFFZmcJ+PJfXhi9Snhvs0XNJ1g25OB2QwsoFXG
+oB74y3WCDNs0YN8xL7VMf9MMByF2cr7UkvrGoQtAYDNeCuEG64UqBBfP+1Et9O46O6U6hfPgWZeN
+gAig1+MtjCzvCD75t9V7V9fiNJV89A80PuF3g5hdAgMBAAGjggLwMIIC7DCBtAYDVR0RBIGsMIGp
+oD0GBWBMAQMEoDQEMjA3MTIxOTU2MzQxOTU0OTE5OTExMDc0MzcwNTgzOTAwMDAwMDAwMDQ5OTgz
+M1NTUFNDoB0GBWBMAQMCoBQEEkRBUklPIEVMSUFTIEJFUkdFUqAZBgVgTAEDA6AQBA44Mjg5MjI4
+MjAwMTIwNKAXBgVgTAEDB6AOBAwwMDAwMDAwMDAwMDCBFWxjYW1wb3NAcG1mLnNjLmdvdi5icjAJ
+BgNVHRMEAjAAMA4GA1UdDwEB/wQEAwIF4DAfBgNVHSMEGDAWgBRdhuPnZMMOukzuR7A6MrHlvBl/
+tDCB9AYDVR0fBIHsMIHpMEugSaBHhkVodHRwOi8vaWNwLWJyYXNpbC5hY2JyLm9yZy5ici9yZXBv
+c2l0b3Jpby9sY3IvQUNCUlJGQkcyL0xhdGVzdENSTC5jcmwwT6BNoEuGSWh0dHA6Ly9pY3AtYnJh
+c2lsLm91dHJhbGNyLmNvbS5ici9yZXBvc2l0b3Jpby9sY3IvQUNCUlJGQkcyL0xhdGVzdENSTC5j
+cmwwSaBHoEWGQ2h0dHA6Ly9yZXBvc2l0b3Jpby5pY3BicmFzaWwuZ292LmJyL2xjci9SRkIvQUNC
+UlJGQkcyL0xhdGVzdENSTC5jcmwwUAYDVR0gBEkwRzBFBgZgTAECARswOzA5BggrBgEFBQcCARYt
+aHR0cDovL2ljcC1icmFzaWwuYWNici5vcmcuYnIvcmVwb3NpdG9yaW8vZHBjMB0GA1UdJQQWMBQG
+CCsGAQUFBwMCBggrBgEFBQcDBDCBjgYIKwYBBQUHAQEEgYEwfzBTBggrBgEFBQcwAoZHaHR0cDov
+L2ljcC1icmFzaWwuYWNici5vcmcuYnIvcmVwb3NpdG9yaW8vY2VydGlmaWNhZG9zL0FDX0JSX1JG
+Ql9HMi5wN2MwKAYIKwYBBQUHMAGGHGh0dHA6Ly9vY3NwLmNlcnRpc2lnbi5jb20uYnIwDQYJKoZI
+hvcNAQEFBQADggEBAB8lVBNu57ug/0yezGWQcRa76z+NThtwDca41yDdbV+rpDrpzoJIN/dqQTFn
+XDdhK2kKKYwJAHivUmE7l5EprmY4DOLK47jnBuWKEpkQ/2Kipw6YoOSamEJF0Kfyws5dbw64SYtR
+UXlNy1G526aLlwyyDn4ovPnCbis0C4wYn2KP+0qRf+W1KbTMBIrHnmm/6IKDCT2X9PvA6/O+YN0h
+7+zSqDidz+gxH/xyOpNLVAm4F7A83NfrYyqTzmrYOhHCjXP45ZpeqNNpGCOmTSoxTT4LskzHh+uR
+MBrVmT/NJ3YxiKJ2TTeMrKDlIGWQy4tcqAOn1Bxn9HAA40NYZjHUe4Y=</X509Certificate></X509Data></KeyInfo><Object><ns2:QualifyingProperties xmlns:ns2="http://uri.etsi.org/01903/v1.3.2#" xmlns:ns3="http://uri.etsi.org/01903/v1.4.1#" Id="QualProperties-3.623326302295842E7" Target="#Sign-7.528474913278529E7" xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <ns2:SignedProperties Id="SigProperties-3018841.8759184764">
+        <ns2:SignedSignatureProperties>
+            <ns2:SigningTime>2014-03-06T20:19:16.104Z</ns2:SigningTime>
+            <ns2:SigningCertificate>
+                <ns2:Cert>
+                    <ns2:CertDigest>
+                        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+                        <DigestValue>QnKobLvS6foq0hsX5zTbQYAZR9w=</DigestValue>
+                    </ns2:CertDigest>
+                    <ns2:IssuerSerial>
+                        <X509IssuerName>CN=AC BR RFB G2, OU=Secretaria da Receita Federal do Brasil - RFB, O=ICP-Brasil, C=BR</X509IssuerName>
+                        <X509SerialNumber>92696259513536278039498361700243445986</X509SerialNumber>
+                    </ns2:IssuerSerial>
+                </ns2:Cert>
+            </ns2:SigningCertificate>
+            <ns2:SignaturePolicyIdentifier>
+                <ns2:SignaturePolicyId>
+                    <ns2:SigPolicyId>
+                        <ns2:Identifier Qualifier="OIDAsURI">http://www.iti.gov.br/twiki/bin/Certificacao/OIDAsURI/2.16.76.1.7.1.7.1</ns2:Identifier>
+                        <ns2:Description>POLITICA ICP-BRASIL PARA ASSINATURA DIGITAL COM REFERENCIA DO TEMPO NO FORMATO XML, versao 1.0.</ns2:Description>
+                        <ns2:DocumentationReferences>
+                            <ns2:DocumentationReference>http://www.iti.gov.br/twiki/bin/Certificacao/RepositoriodaACRaiz</ns2:DocumentationReference>
+                        </ns2:DocumentationReferences>
+                    </ns2:SigPolicyId>
+                    <ns2:SigPolicyHash>
+                        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+                        <DigestValue>z/o2VcZJDnSPjLuauQpnLthel7Q=</DigestValue>
+                    </ns2:SigPolicyHash>
+                    <ns2:SigPolicyQualifiers>
+                        <ns2:SigPolicyQualifier>
+                            <ns2:SPUserNotice>
+<ns2:NoticeRef>
+    <ns2:Organization>ICP-Brasil</ns2:Organization>
+    <ns2:NoticeNumbers>
+        <ns2:int>1</ns2:int>
+    </ns2:NoticeNumbers>
+</ns2:NoticeRef>
+<ns2:ExplicitText>POLITICA ICP-BRASIL PARA ASSINATURA DIGITAL COM REFERENCIA DO TEMPO NO FORMATO XML, versao 1.0.</ns2:ExplicitText>
+                            </ns2:SPUserNotice>
+                        </ns2:SigPolicyQualifier>
+                    </ns2:SigPolicyQualifiers>
+                </ns2:SignaturePolicyId>
+            </ns2:SignaturePolicyIdentifier>
+        </ns2:SignedSignatureProperties>
+    </ns2:SignedProperties>
+    <ns2:UnsignedProperties>
+        <ns2:UnsignedSignatureProperties>
+            <ns2:SignatureTimeStamp>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+                <ns2:EncapsulatedTimeStamp Id="CarimboTempo-7.809715215137531E7">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</ns2:EncapsulatedTimeStamp>
+            </ns2:SignatureTimeStamp>
+        </ns2:UnsignedSignatureProperties>
+    </ns2:UnsignedProperties>
+</ns2:QualifyingProperties></Object></Signature></ns2:NFPSe>

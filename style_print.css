@@ -1,0 +1,68 @@
+
+.make-grid(sm);
+
+@page {
+	size: A4;
+    margin: 1.25cm 1cm 1.2cm 1cm;
+}
+
+a, a:before, a:after {
+	content: "" important;
+}
+
+table {
+	width: 100% !important;
+}
+
+table td, table th {
+	border: 1px solid #333;
+	padding: 5px;
+	font-size: 13px;
+}
+table th {
+	background-color: #efefef;
+}
+span {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+	font-size: 13px !important;
+	line-height: 19px !important;
+}
+.cabecalho {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+
+#logo_proposta {
+	margin-top: 8px;
+}
+ul {
+	list-style: square;
+	padding-left: 14px !important;
+}
+ul li {
+
+}
+.corpo_conteudo {
+	display: table;
+	margin-top: -4px;
+}
+.infos {
+	padding-left: 0;
+}
+body {
+	font-weight: 200;
+	line-height: 20.5px;
+	font-size: 14.5px;
+	letter-spacing: 0;
+}
+
+p {
+	font-size: 14px;
+	line-height: 20.5px;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+	line-height: 1.3;
+}

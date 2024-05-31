@@ -1,0 +1,11 @@
+html {
+	height: 92%;
+}
+body {
+	font: normal 13px/16px 'Lato', Arial, Helvetica;
+	height: 100%;
+}
+
+table {
+	width: 100% !important;
+}
